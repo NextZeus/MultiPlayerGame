@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Billboard.cs" />
      <Compile Include="Assets\Bullet.cs" />
+     <Compile Include="Assets\EnemySpawner.cs" />
      <Compile Include="Assets\Health.cs" />
      <Compile Include="Assets\PlayerController.cs" />
  <Reference Include="Facebook.Unity.Settings">
